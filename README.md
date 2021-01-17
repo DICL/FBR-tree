@@ -21,6 +21,11 @@ cd FBR-tree
 make  
 ```
 
+## Usage
+```
+./{exe file} (number_of_INSERT) (number_of_SEARCH) (number_of_Insert_THREADs) (number_of_Search_THREADs) (write_Latency) (k_delta)
+```
+
 ## Contirubtors
 * Soojeong Cho (cristalcho@gmail.com)
 * 
